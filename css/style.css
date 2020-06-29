@@ -3,3 +3,12 @@
   margin: 0;
   padding:0;
 }
+
+
+.city{
+  position: relative;
+  height: 100vh;
+  width: calc(100% - 20px);
+  background-size: cover;
+  margin: 10px;
+}
