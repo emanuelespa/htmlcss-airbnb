@@ -8,6 +8,10 @@
  background-image: url(../img/roma.jpg);
 }
 
+#copenaghen{
+   background-image: url(../img/copenaghen.jpg);
+}
+
 .city{
   position: relative;
   height: 100vh;
