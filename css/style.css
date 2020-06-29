@@ -12,6 +12,10 @@
    background-image: url(../img/copenaghen.jpg);
 }
 
+#tokyo{
+  background-image: url(../img/Tokyo_950x540.jpg);
+}
+
 .city{
   position: relative;
   height: 100vh;
